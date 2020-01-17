@@ -1,5 +1,5 @@
 # FirstAppDemo
 
 
-![First IOS App Demo](https://recordit.co/PIwXpnxTli)
+[First IOS App Demo](https://recordit.co/PIwXpnxTli)
 
